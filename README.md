@@ -4,7 +4,7 @@ Quick and easy string diffing function for Golang. Mainly for diffing strings in
 
 Get it:
 
-    go get github.com/KoNekoD/diff
+    go get github.com/KoNekoD/diff-color
 
 Example:
 
