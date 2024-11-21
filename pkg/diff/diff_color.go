@@ -1,4 +1,4 @@
-package services
+package diff
 
 import (
 	"bytes"

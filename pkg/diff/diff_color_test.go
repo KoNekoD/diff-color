@@ -1,4 +1,4 @@
-package services
+package diff
 
 import (
 	"github.com/stretchr/testify/assert"
