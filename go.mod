@@ -1,7 +1,5 @@
 module github.com/KoNekoD/diff-color
 
-go 1.23
-
 require (
 	github.com/gookit/color v1.5.4
 	github.com/stretchr/testify v1.9.0
